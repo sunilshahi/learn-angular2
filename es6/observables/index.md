@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Observables
-edit_link: https://github.com/driftyco/learn-angular2/edit/gh-pages/es6/observables/index.md
+edit_link: https://github.com/ionic-team/learn-angular2/edit/gh-pages/es6/observables/index.md
 tweet: "Observables"
 ---
 

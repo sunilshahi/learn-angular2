@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Templates
-edit_link: https://github.com/driftyco/learn-angular2/edit/gh-pages/templates/index.md
+edit_link: https://github.com/ionic-team/learn-angular2/edit/gh-pages/templates/index.md
 tweet: "All about Templates in Angular 2"
 ---
 

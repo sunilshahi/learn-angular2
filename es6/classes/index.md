@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ES6 Classes
-edit_link: https://github.com/driftyco/learn-angular2/edit/gh-pages/es6/classes/index.md
+edit_link: https://github.com/ionic-team/learn-angular2/edit/gh-pages/es6/classes/index.md
 tweet: "How to write ES6 Classes"
 ---
 

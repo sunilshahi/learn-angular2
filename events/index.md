@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Angular 2 Events
-edit_link: https://github.com/driftyco/learn-angular2/edit/gh-pages/events/index.md
+edit_link: https://github.com/ionic-team/learn-angular2/edit/gh-pages/events/index.md
 tweet: "Understanding events in Angular 2"
 ---
 

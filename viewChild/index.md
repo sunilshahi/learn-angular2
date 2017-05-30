@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ViewChild
-edit_link: https://github.com/driftyco/learn-angular2/edit/gh-pages/viewChild/index.md
+edit_link: https://github.com/ionic-team/learn-angular2/edit/gh-pages/viewChild/index.md
 tweet: "Access child components in Angular 2"
 ---
 

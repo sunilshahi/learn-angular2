@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Components
-edit_link: https://github.com/driftyco/learn-angular2/edit/gh-pages/components/index.md
+edit_link: https://github.com/ionic-team/learn-angular2/edit/gh-pages/components/index.md
 tweet: "How to use components in Angular 2"
 ---
 
@@ -19,7 +19,7 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'my-component',
   template: `
-    <div>Hello my name is {{name}}. 
+    <div>Hello my name is {{name}}.
       <button (click)="sayMyName()">Say my name</button>
     </div>
    `

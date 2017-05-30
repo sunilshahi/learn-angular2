@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Modules and NgModule
-edit_link: https://github.com/driftyco/learn-angular2/edit/gh-pages/modules/index.md
+edit_link: https://github.com/ionic-team/learn-angular2/edit/gh-pages/modules/index.md
 tweet: "How modules and NgModule work in Angular 2"
 ---
 

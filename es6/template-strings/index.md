@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ES6 Template Strings
-edit_link: https://github.com/driftyco/learn-angular2/edit/gh-pages/es6/template-strings/index.md
+edit_link: https://github.com/ionic-team/learn-angular2/edit/gh-pages/es6/template-strings/index.md
 tweet: "Magical new ES6 Template Strings"
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Promises
-edit_link: https://github.com/driftyco/learn-angular2/edit/gh-pages/es6/promises.md
+edit_link: https://github.com/ionic-team/learn-angular2/edit/gh-pages/es6/promises.md
 tweet: "Promises"
 ---
 

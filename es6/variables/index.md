@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ES6 Variables
-edit_link: https://github.com/driftyco/learn-angular2/edit/gh-pages/es6/variables/index.md
+edit_link: https://github.com/ionic-team/learn-angular2/edit/gh-pages/es6/variables/index.md
 tweet: "Understanding let and var in ES6"
 ---
 
@@ -20,12 +20,12 @@ for(var i in thing) {
 }
 ```
 
-After the loop, `i` is still available! 
+After the loop, `i` is still available!
 
 ## Let
 
 With `let`, that is no longer an issue. Let creates a variable
-that is only available in the nearest block. 
+that is only available in the nearest block.
 
 This is perfect for loops and closures:
 

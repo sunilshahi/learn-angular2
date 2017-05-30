@@ -24,7 +24,7 @@ we desperately needed to push forward our goal of making the web win on mobile. 
 
 We knew we had to work to make sure the ngCommunity transitioned from Angular 1 to Angular 2 as quickly and cleanly as possible, so we started this site to help with the transition.
 
-As Angular 2 moves from beta to RC and beyond, we will be updating this site with new tutorials and examples. If you ever have a question or feel there is something we could expand, [tweet at us](http://twitter.com/ionicframework) or [file an issue](https://github.com/driftyco/learn-angular2).
+As Angular 2 moves from beta to RC and beyond, we will be updating this site with new tutorials and examples. If you ever have a question or feel there is something we could expand, [tweet at us](http://twitter.com/ionicframework) or [file an issue](https://github.com/ionic-team/learn-angular2).
 
 We hope you find Angular 2 as inspiring as we have, and we hope this guide helps you get there as quickly as possible.
 

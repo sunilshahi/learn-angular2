@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Arrow Functions
-edit_link: https://github.com/driftyco/learn-angular2/edit/gh-pages/es6/arrow-functions.md
+edit_link: https://github.com/ionic-team/learn-angular2/edit/gh-pages/es6/arrow-functions.md
 tweet: "ES6/TypeScript Arrow Functions"
 ---
 

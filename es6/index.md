@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ES6/TypeScript/AtScript/Babel...wat?
-edit_link: https://github.com/driftyco/learn-angular2/edit/gh-pages/es6/index.md
+edit_link: https://github.com/ionic-team/learn-angular2/edit/gh-pages/es6/index.md
 tweet: "ES6/TypeScript - What is all this?"
 ---
 
@@ -10,7 +10,7 @@ is how to actually write modern JavaScript.
 
 There's ES5, ES6, then ES7, TypeScript, AtScript, Dart, Babel...the list goes on.
 
-JavaScript is largely a standards-driven language. That means a [committee agrees](http://www.infoq.com/news/2015/06/ecmascript-2015-es6) on 
+JavaScript is largely a standards-driven language. That means a [committee agrees](http://www.infoq.com/news/2015/06/ecmascript-2015-es6) on
 what "JavaScript" is, at least the lowest common denominator of it, and browser vendors
 work to implement those features. Today (but not for long), ES5 is that version of JS that is
 most widely supported.

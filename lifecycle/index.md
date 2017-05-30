@@ -1,7 +1,7 @@
 ---
 layout: default
 title: App Lifecycle
-edit_link: https://github.com/driftyco/learn-angular2/edit/gh-pages/lifecycle/index.md
+edit_link: https://github.com/ionic-team/learn-angular2/edit/gh-pages/lifecycle/index.md
 tweet: "Lifecycle of an Angular 2 App"
 ---
 

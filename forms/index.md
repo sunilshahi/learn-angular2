@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Forms
-edit_link: https://github.com/driftyco/learn-angular2/edit/gh-pages/forms/index.md
+edit_link: https://github.com/ionic-team/learn-angular2/edit/gh-pages/forms/index.md
 tweet: "Build great forms in Angular 2"
 ---
 

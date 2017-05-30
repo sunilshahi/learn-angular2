@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Inputs
-edit_link: https://github.com/driftyco/learn-angular2/edit/gh-pages/inputs/index.md
+edit_link: https://github.com/ionic-team/learn-angular2/edit/gh-pages/inputs/index.md
 tweet: "Learn input properties in Angular 2"
 ---
 
