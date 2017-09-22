@@ -124,7 +124,7 @@ We can build custom form validators as a simple function:
 
 ```javascript
 function containsMagicWord(c: FormControl) {
-  if(c.value.indexOf('magic') >= 0) {
+  if(c.value.indexOf('magic') < 0) {
     console.log('not valid')
     return {
       noMagic: true
